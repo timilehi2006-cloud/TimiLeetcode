@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/timilehi2006-cloud/Timi/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/timilehi2006-cloud/Timi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/timilehi2006-cloud/Timi/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/timilehi2006-cloud/Timi/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/timilehi2006-cloud/Timi/tree/master/0169-majority-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/timilehi2006-cloud/Timi/tree/master/0004-median-of-two-sorted-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
