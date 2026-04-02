@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/timilehi2006-cloud/Timi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/timilehi2006-cloud/Timi/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/timilehi2006-cloud/Timi/tree/master/0045-jump-game-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/timilehi2006-cloud/Timi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/timilehi2006-cloud/Timi/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/timilehi2006-cloud/Timi/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/timilehi2006-cloud/Timi/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
