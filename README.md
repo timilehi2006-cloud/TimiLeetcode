@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/timilehi2006-cloud/Timi/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2405-optimal-partition-of-string](https://github.com/timilehi2006-cloud/Timi/tree/master/2405-optimal-partition-of-string) |
 ## Simulation
 |  |
 | ------- |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/timilehi2006-cloud/Timi/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/timilehi2006-cloud/Timi/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/timilehi2006-cloud/Timi/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2405-optimal-partition-of-string](https://github.com/timilehi2006-cloud/Timi/tree/master/2405-optimal-partition-of-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/timilehi2006-cloud/Timi/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2405-optimal-partition-of-string](https://github.com/timilehi2006-cloud/Timi/tree/master/2405-optimal-partition-of-string) |
 ## Divide and Conquer
 |  |
 | ------- |
