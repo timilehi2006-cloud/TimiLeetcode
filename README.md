@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/timilehi2006-cloud/Timi/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/timilehi2006-cloud/Timi/tree/master/0274-h-index) |
+| [0941-valid-mountain-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
