@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/timilehi2006-cloud/Timi/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/timilehi2006-cloud/Timi/tree/master/0274-h-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/timilehi2006-cloud/Timi/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/timilehi2006-cloud/Timi/tree/master/0151-reverse-words-in-a-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/timilehi2006-cloud/Timi/tree/master/0821-shortest-distance-to-a-character) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/timilehi2006-cloud/Timi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2405-optimal-partition-of-string](https://github.com/timilehi2006-cloud/Timi/tree/master/2405-optimal-partition-of-string) |
 ## Simulation
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/timilehi2006-cloud/Timi/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0189-rotate-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/timilehi2006-cloud/Timi/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/timilehi2006-cloud/Timi/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
