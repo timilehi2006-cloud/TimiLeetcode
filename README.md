@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/timilehi2006-cloud/Timi/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/timilehi2006-cloud/Timi/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/timilehi2006-cloud/Timi/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/timilehi2006-cloud/Timi/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
